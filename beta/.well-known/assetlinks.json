@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "filtermusic.net",
+                     "sha256_cert_fingerprints": ["84:56:ED:B9:88:AE:AD:85:D8:28:EF:4B:B5:F0:E5:88:06:6A:2F:E2:DD:95:58:34:6D:A4:3A:75:68:EE:B8:E8"] }
+      }
+]
